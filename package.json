@@ -2,9 +2,9 @@
     "name": "weinre-heroku",
     "version": "2.0.0-pre-HA5N9T49",
     "dependencies": {
-        "weinre": "2.x"
+        "weinre": "2.0.0-pre-I0Z7U9OV"
     },
     "engines": {
-      "node": "10.13.x"
+        "node": "10.13.x"
     }
 }
